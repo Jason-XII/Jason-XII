@@ -39,4 +39,4 @@ I started to learn python when I was 12 and really loved this programming langua
 
 ---
 
-> "There is a guaranteed way to fail, that is to stop trying."
+> "The only guaranteed way to fail is to stop trying."
